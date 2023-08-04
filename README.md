@@ -1,2 +1,2 @@
 # OIBSIP
-Projects on Data Science
+Projects on Data Science Internship
